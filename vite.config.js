@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'test-deploy-app',
-        short_name: 'test-deploy-app',
+        name: 'test-task-app',
+        short_name: 'test-task-app',
         description: 'Premium PWA Experience',
         theme_color: '#000000',
         icons: [
